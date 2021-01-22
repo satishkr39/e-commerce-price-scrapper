@@ -1,0 +1,11 @@
+{
+    "https://aquident.com/products/led-4?fbclid=IwAR0NVoJVHYnkoZdOheEgwu5V5x_iC_q6EkPqC6ulLmXxfLtxBHU30HzOb6A": "27.99",
+    "https://hazelwagon.com/products/lace-fake-collars?fbclid=IwAR3IEHAHkalTFFCuWzXE3wgvyVgIur2nGAo_HR-4n4PCKk2Ds43bqrGNudM": "22.97",
+    "https://leruisd.com/products/microfiber-car-window-cleaner?fbclid=IwAR1SWGL9HqWINjq0Nf9Gu8mLCZbZINvTw8lRfhzz1N7vwQRq8wxxEIYq1lw": "39.98",
+    "https://mimmpeach.com/products/nourishing-gray-hair-dye-cream?fbclid=IwAR3UROJ5N5HGhrOnRyX7lyDjjrIjzMnNkAwQU5c-Sw8KcQomtcL9mvBDXt8": "33.97",
+    "https://thecurler.co.uk/products/curly?fbclid=IwAR1s9Np_6HugQokvQ6Hw1V-3T82znHkslS1dlMeezE9lYgCk_nfL1fxPN4k": "79.98",
+    "https://www.altemall.com/products/couple-hug-ring?variant=37391424061599": "17.99",
+    "https://www.catsjoys.com/collections/all-products/products/taco-toaster?variant=37311400804508&fbclid=IwAR1R9avwhx2j6ZSN2edgYOIry_meuFVLchCNZUsS1ZZDV3532wPiRBuX6rg": null,
+    "https://www.dazzycandy.com/products/h-s-w-p?fbclid=IwAR374lGlyi46DvYoTq5N2fsGaaeXCxQupvgaKf6kQwiYVsfuC4sfwuceWTU": "14.97",
+    "https://www.urlife.co.uk/collections/top-recommend/products/3-in-1-silicone-caulking-tools?variant=30944402636909": "12.99"
+}
